@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "https://prashantbhandary.github.io/robo-website/"
+baseURL = "https://wrcroboticsclub.github.io/wrc-robotics"
 # Title of your website (required).
 title = "WRC ROBOTICS"
 # Your theme name
