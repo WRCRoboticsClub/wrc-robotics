@@ -45,7 +45,7 @@ features:
     bulletpoints:
       - "Micromouse maze-solving bots"
       - "Line followers and obstacle avoidance bots"
-      - "ESP32 + BLE projects and real-time data display"
+      - "ESP32 projects and real-time data display"
       - "Robotics fellowship training with 3D printing & CAD"
     button:
       enable: true
