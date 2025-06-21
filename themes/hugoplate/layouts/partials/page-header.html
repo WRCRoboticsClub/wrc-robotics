@@ -1,9 +1,9 @@
-<section>
+<section class="py-2">
   <div class="container text-center">
     <div
-      class="from-body to-light dark:from-darkmode-body dark:to-darkmode-light rounded-2xl bg-gradient-to-b px-8 py-14">
-      <h1>{{ T (printf "%s" (lower .Title)) | default .Title | title }}</h1>
-      {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-6") }}
+      class="from-body to-light dark:from-darkmode-body dark:to-darkmode-light rounded-2xl bg-gradient-to-b px-4 py-4 md:px-6 md:py-6">
+      <h1 class="text-2xl font-semibold leading-tight">{{ T (printf "%s" (lower .Title)) | default .Title | title }}</h1>
+      {{ partial "components/breadcrumb" (dict "Context" . "Class" "mt-2") }}
     </div>
   </div>
 </section>

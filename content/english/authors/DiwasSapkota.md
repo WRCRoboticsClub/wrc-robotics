@@ -1,9 +1,8 @@
 ---
-title: Sandesh Ghorsai
+title: Diwas Sapkota
 email: robotics@wrc.edu.np
-image: "/images/Executive/SandeshGhorsai.png"
-description: Executive Head | Robotics Club, Pashchimanchal Campus
-weight: 1
+image: "/images/Executive/DiwasSapkota.png"
+description: Executive Member | Robotics Club, Pashchimanchal Campus
 social:
   - name: github
     icon: fa-brands fa-github
@@ -18,4 +17,4 @@ social:
     link: https://linkedin.com/in/YourSandesh  # update with real profile
 ---
 
-Executive Head
+Executive Member

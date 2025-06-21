@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Explore Our Projects"
+    label: "Register For Battle For Speed 2025 ! "
     link: "#projects"
 
 # Features

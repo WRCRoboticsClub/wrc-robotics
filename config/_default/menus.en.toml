@@ -7,43 +7,48 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Members"
+url = "/authors"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "About"
+url = "/about"
 weight = 3
 
-[[main]]
-weight = 4
-name = "Pages"
+# [[main]]
+# name = "Elements"
+# url = "/elements"
+# weight = 3
 
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+# [[main]]
+# weight = 4
+# name = "Pages"
 
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "/blog"
 
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "/contact"
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
+# [[main]]
+# parent = "Pages"
+# name = "Members"
+# url = "/authors"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "/categories"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "/404"
 
 
 # footer menu
@@ -53,7 +58,7 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
+name = "Members"
 url = "/elements"
 weight = 2
 
@@ -61,3 +66,6 @@ weight = 2
 name = "Privacy Policy"
 url = "/privacy-policy"
 weight = 3
+
+[[footer]]
+  copyright = "© 2025 WRC Robotics Club. All rights reserved."

@@ -1,9 +1,8 @@
 ---
-title: Sandesh Ghorsai
+title: Ritik Sah
 email: robotics@wrc.edu.np
-image: "/images/Executive/SandeshGhorsai.png"
+image: "/images/Executive/RitikShah.png"
 description: Executive Head | Robotics Club, Pashchimanchal Campus
-weight: 1
 social:
   - name: github
     icon: fa-brands fa-github
@@ -18,4 +17,4 @@ social:
     link: https://linkedin.com/in/YourSandesh  # update with real profile
 ---
 
-Executive Head
+Executive Member

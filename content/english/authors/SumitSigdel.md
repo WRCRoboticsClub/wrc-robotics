@@ -1,9 +1,9 @@
 ---
-title: Sandesh Ghorsai
+title: Sumit Sigdel
 email: robotics@wrc.edu.np
-image: "/images/Executive/SandeshGhorsai.png"
-description: Executive Head | Robotics Club, Pashchimanchal Campus
-weight: 1
+image: "/images/Executive/SumitSigdel.png"
+description: Vice-Executive Head | Robotics Club, Pashchimanchal Campus
+weight: 2
 social:
   - name: github
     icon: fa-brands fa-github
@@ -17,5 +17,4 @@ social:
     icon: fa-brands fa-linkedin
     link: https://linkedin.com/in/YourSandesh  # update with real profile
 ---
-
-Executive Head
+Vice-Executive Head
